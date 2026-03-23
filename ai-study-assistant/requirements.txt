@@ -1,0 +1,14 @@
+langchain
+langchain-community
+chromadb
+sentence-transformers
+pypdf
+pymupdf
+fastapi
+uvicorn
+wandb
+great_expectations
+prometheus-client
+uvicorn[standard]
+slowapi
+python-multipart
