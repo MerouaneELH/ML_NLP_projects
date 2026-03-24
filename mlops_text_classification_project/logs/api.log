@@ -1,0 +1,2 @@
+2025-05-15 22:39:48,543 - INFO - NumExpr defaulting to 8 threads.
+2025-05-15 22:39:49,839 - INFO - FastAPI startup: Model and vectorizer are ready.

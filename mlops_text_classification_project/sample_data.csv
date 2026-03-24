@@ -1,0 +1,11 @@
+text,label
+"This is a great movie, I loved it!",positive
+"What a terrible film, a complete waste of time.",negative
+"The acting was superb and the plot was engaging.",positive
+"I found the movie to be quite boring and predictable.",negative
+"An amazing experience, highly recommended!",positive
+"Not my cup of tea, I wouldn't watch it again.",negative
+"The food was delicious and the service was excellent.",positive
+"I am very disappointed with the product quality.",negative
+"This book is a masterpiece of literature.",positive
+"The weather today is gloomy and depressing.",negative

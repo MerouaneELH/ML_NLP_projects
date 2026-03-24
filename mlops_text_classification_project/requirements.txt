@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+pandas
+scikit-learn
+joblib
+python-multipart # often needed for FastAPI forms, good to include
+# DVC and MLflow would be added here if fully integrated and used in the core workflow
+# For now, these are conceptual as per the PDF's advanced scope
+# dvc
+# mlflow
